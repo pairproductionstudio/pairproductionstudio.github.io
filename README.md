@@ -1,6 +1,8 @@
-# windty 🌬️
+# Pair Production Studio
 
-Windty is a basic template using 11ty and Tailwind, and deploys to github pages.
+Welcome to the Pair Production Studio!
+
+We use GitHub pages and 11ty to host our website, check out the template info below.
 
 ## How to use
 1. [Create a new repo from windty’s template](https://github.com/distantcam/windty/generate), or [clone this one](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
